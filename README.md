@@ -1,2 +1,3 @@
 # Tsinghua_Univ_BBS_Crawler
-爬取清华BBS论坛的爬虫
+
++ In Wiki of this resposotory, you can find more details about my webcrawler.
